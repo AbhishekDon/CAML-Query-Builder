@@ -1,5 +1,0 @@
-C:\Git Projects\DynamicCAMLQueryBuilder\CAMLQueryBuilder\obj\Debug\CAMLQueryBuilder.csprojResolveAssemblyReference.cache
-C:\Git Projects\DynamicCAMLQueryBuilder\CAMLQueryBuilder\bin\Debug\CAMLQueryBuilder.dll
-C:\Git Projects\DynamicCAMLQueryBuilder\CAMLQueryBuilder\bin\Debug\CAMLQueryBuilder.pdb
-C:\Git Projects\DynamicCAMLQueryBuilder\CAMLQueryBuilder\obj\Debug\CAMLQueryBuilder.dll
-C:\Git Projects\DynamicCAMLQueryBuilder\CAMLQueryBuilder\obj\Debug\CAMLQueryBuilder.pdb
