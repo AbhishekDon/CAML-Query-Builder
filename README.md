@@ -24,3 +24,5 @@
     CAMLQuery oCAMLquery = new CAMLQuery(subQueries, 47, null);
     
     Console.WriteLine(oCAMLquery.ViewExpression);
+  
+  //end of file
